@@ -9,10 +9,7 @@ import java.awt.Color;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author parab
- */
+
 public class TicTacToeFrame extends javax.swing.JFrame {
 
     private String whoseTurn="X";
